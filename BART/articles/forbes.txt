@@ -1,0 +1,27 @@
+Sam Altman has been pushed out of AI juggernaut Open AI after an internal review found he had not been “consistently candid” with his representations to the board.
+
+“Mr. Altman’s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities,” the company said in a press release. “The board no longer has confidence in his ability to continue leading OpenAI.”
+
+OpenAI’s chief technology officer Mira Murati will take over as interim CEO. Cofounder Greg Brockman was to leave his role as chairman of the board and report to the CEO, but he resigned hours later.
+
+OpenAI did not immediately respond to a request for comment. Altman tweeted, “i loved my time at openai. it was transformative for me personally, and hopefully the world a little bit. Most of all i loved working with such talented people. will have more to say about what’s next later.”
+
+Update: Later on Friday night, Brockman posted an account of the board’s actions on X, the social media site formerly known as Twitter. “We are still trying to figure out exactly what happened,” Brockman wrote, before describing how the board surprised Altman and him separately with the news. “If I start going off, the OpenAI board should go after me for the full value of my shares,” Altman followed. Altman owns no shares.
+
+The board consists of OpenAI chief scientist Ilya Sutskever, independent directors Quora CEO Adam D’Angelo, technology entrepreneur Tasha McCauley, and Georgetown Center for Security and Emerging Technology’s Helen Toner. A press release issued by the company noted that “the majority of the board is independent, and the independent directors do not hold equity in OpenAI.”
+
+Launched in 2015 as a non-profit with the mission to build AI that was “safe and broadly beneficial,” the company has grown into one of the most powerful AI firms in the world. It parted ways with early backer Elon Musk over disagreements about the future of the company, but Altman managed to build the company into a leader in a new wave of AI in Silicon Valley.
+
+Its work became front and center in November 2022 with the arrival of ChatGPT, the large language model that has revolutionized everything from writing code to school essays to legal briefs. Soon after, Microsoft doubled down on an earlier investment with an additional $10 billion, securing OpenAI’s position at the front of the generative AI wave, which founder Bill Gates has said is ”every bit as important as the PC, as the internet.”
+
+It also caught the major tech companies off guard, prompting Alphabet CEO Sundar Pichai to issue a code red, and swiftly released an upgrade to its BARD chatbot. Co-founder Sergey Brin even rejoined the company as engineer to bolster Alphabet’s efforts. After Microsoft joined forces with OpenAI to power its Bing search engine, Microsoft CEO Satya Nadella quipped that the move had caused Google to “dance.” “I want people to know we made them dance,” he said.
+
+The company’s success positioned Altman as the face of a new AI frontier, putting him in front of government leaders and among industry heads as the sector’s prime advocate and innovator. More recently, he played a visible role in advising the White House on its executive order to regulate AI technology, while addressing national security concerns.
+
+Altman, who was previously president of the elite startup incubator Y Combinator, has had his hand in several ventures outside of OpenAI. He is the cofounder of Worldcoin, the controversial crypto project that seeks to create a universal basic income by scanning the eyes of people with a high tech orb.
+
+At a Worldcoin company offsite last May, Altman hinted at his approach to leadership and product development when it comes to all of his projects. “Scale it up and see what happens,” he said, according to audio obtained by Forbes. Scaling up “earlier than it makes sense to …is super, super valuable,” he told employees.
+
+Altman’s image as AI leader continued as recently as Wednesday morning, when he sat on a panel at the Asia-Pacific Economic Cooperation summit in San Francisco, telling those gathered that while humanity is “on a path to self-destruction as a species right now,” artificial intelligence could be a solution.
+
+But by Friday afternoon, he was out as CEO, effective immediately. “We are grateful for Sam’s many contributions to the founding and growth of OpenAI,” OpenAi’s board wrote in its press statement announcing his departure. “At the same time, we believe new leadership is necessary as we move forward.”

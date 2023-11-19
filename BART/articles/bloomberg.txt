@@ -1,0 +1,27 @@
+When it comes to artificial intelligence, one of the most commonly debated issues in the technology community is safety — so much so that it has helped lead to the ouster of OpenAI's co-founder Sam Altman, according to Bloomberg News.
+
+And those concerns boil down to a truly unfathomable one: Will AI kill us all? Allow me to set your mind at ease: AI is no more dangerous than the many other existential risks facing humanity, from supervolcanoes to stray asteroids to nuclear war.
+
+I am sorry if you don’t find that reassuring. But it is far more optimistic than someone like the AI researcher Eliezer Yudkowsky, who believes humanity has entered its last hour. In his view, AI will be smarter than us and will not share our goals, and soon enough we humans will go the way of the Neanderthals. Others have called for a six-month pause of AI progress, so we humans can get a better grasp of what’s going on.
+
+AI is just the latest instantiation of the many technological challenges humankind has faced throughout history. The printing press and electricity involved pluses and misuses too, but it would have been a mistake to press the “stop” or even the “slow down” buttons on either.
+
+AI worriers like to start with the question: “What is your ‘p’ [probability] that AI poses a truly existential risk?” Since “zero” is obviously not the right answer, the discussion continues: Given a non-zero risk of total extinction, shouldn’t we be truly cautious? You then can weigh the potential risk against the forthcoming productivity improvements from AI, as one Stanford economist does in a recent study. You still end up pretty scared.
+
+One possible counterargument is that we can successfully align the inner workings of AI systems with human interests. I am optimistic on that front, but I have more fundamental objections to how the AI pessimists are framing their questions.
+
+First, I view AI as more likely to lower than to raise net existential risks. Humankind faces numerous existential risks already. We need better science to limit those risks, and strong AI capabilities are one way to improve science. Our default path, without AI, is hardly comforting.
+
+The above-cited risks may not kill each and every human, but they could deal civilization as we know it a decisive blow. China or some other hostile power attaining super-powerful AI before the US does is yet another risk, not quite existential but worth avoiding, especially for Americans.
+
+It is true that AI may help terrorists create a bioweapon, but thanks to the internet that is already a major worry. AI may help us develop defenses and cures against those pathogens. We don’t have a scientific way of measuring whether aggregate risk goes up or down with AI, but I will opt for a world with more intelligence and science rather than less.
+
+Another issue is whether we should confront issues probabilistically or by thinking at the margin. The AI doomsayers tend to ask the question this way: “What is your ‘p’ for doom?” A better way might be this: “We’re not going to stop AI, so what should we do?” The obvious answer is to work to make it better, safer, and more likely to lower risks.
+
+It is very hard to estimate AI or indeed any other existential risk in the abstract. We can make more progress by considering a question in a specific real-world context.
+
+Note that the pessimistic arguments are not supported by an extensive body of peer-reviewed research — not in the way that, say, climate-change arguments are. So we’re being asked to stop a major technology on the basis of very little confirmed research. In another context, this might be called pseudo-science.
+
+Furthermore, the risk of doom does not show up in market prices. Risk premiums are not especially high at the moment, and most economic variables appear to be well-behaved and within normal ranges. If you think AI is going to end the world, there is likely some intermediate period when you could benefit by going long on volatility and short on the market. If nothing else, you could give away money and alleviate human suffering before the final curtain falls. Yet that is not a bet that many seasoned traders are willing to make.
+
+When I ask AI pessimists if they have adjusted their portfolio positions in accord with their beliefs, they almost always say they have not. At the end of the day, they are too sensible to think probabilistically and de novo about each and every life decision. The best ones are working to make AI safer — and that is a project we should continue to encourage.

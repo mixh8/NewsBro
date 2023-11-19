@@ -1,0 +1,42 @@
+
+The co-founder and president of OpenAI abruptly quit late Friday, hours after the shocking firing of CEO Sam Altman just hours earlier.
+
+“We’ve been through tough & great times together, accomplishing so much despite all the reasons it should have been impossible. But based on today’s news, I quit,” Greg Brockman announced on X.
+
+The statement came after Altman was fired by the company he helped make a leading force in the artificial intelligence industry.
+
+“Mr. Altman’s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities,” the company said in a blog post. “The board no longer has confidence in his ability to continue leading OpenAI.”
+
+The board provided no details of Altman’s alleged lack of candor and declined to answer any follow-up questions about the bombshell shakeup.
+
+Altman did not immediately return a call from The Daily Beast, but in a post to X on Friday afternoon, he acknowledged his ouster, writing, “i loved my time at openai. it was transformative for me personally, and hopefully the world a little bit. most of all i loved working with such talented people. will have more to say about what’s next later.” He ended the post with a “saluting” emoji.
+
+He later said he was overwhelmed by the “outpouring of love.”
+
+“Today was a weird experience in many ways. but one unexpected one is that it has been sorta like reading your own eulogy while you’re still alive. the outpouring of love is awesome. one takeaway: go tell your friends how great you think they are.”
+
+Brockman separately posted on X that he and Altman were “still trying to figure out exactly what happened.” He said Altman had received a text message from OpenAI’s chief scientist, Ilya Sutskever, on Thursday night asking to join a virtual meeting the next day, where he was subsequently told he was “being fired and that the news was going out very soon.”
+
+OpenAI’s board appointed Chief Technology Officer Mira Murati to serve as interim CEO.
+
+The news reportedly shocked employees at OpenAI, who first heard about the news when it was announced publicly, according to The Verge.
+
+Microsoft, a major investor in the company, told the outlet it would continue to work with OpenAI and remains “committed to Mira and their team as we bring this next era of AI to our customers.” But the tech giant was reportedly “blindsided” by the news and found out just before it was announced.
+
+Microsoft CEO Satya Nadella sought to downplay the situation in a post on X, writing, “We have a long-term agreement with OpenAI with full access to everything we need to deliver on our innovation agenda and an exciting product roadmap; and remain committed to our partnership.”
+
+According to tech outlet The Information, Sutskever tried to reassure employees during an all-hands meeting on Friday, telling them that the tumult would ultimately “make us feel closer.”
+
+Altman came to OpenAI after serving as president of the prominent startup incubator Y-Combinator and after launching his own start-up, Loopt. The AI company soared to prominence with the debut of ChatGPT, a hugely popular AI chatbot. The company’s most recent product, ChatGPT Plus, was so popular it had to pause signups earlier this month.
+
+Along with his role as CEO of OpenAI, Altman, 38, served as a sort of public face for the artificial intelligence industry. On what New York magazine dubbed a “world tour” this spring, Altman met with the heads of state of France, Spain, India, South Korea, Germany, and the U.K. He also testified before the U.S. Congress on the potential risks and benefits of AI technology and attended dinner at the White House.
+
+Just a day before his firing, Altman appeared on OpenAI’s behalf at the Asia-Pacific Economic Cooperation CEO Summit in San Francisco, where he further evangelized AI.
+
+“I think this will be the most transformative and beneficial technology yet invented,” he said, adding that new technology like ChatGPT is “like the ‘Star Trek’ computer I was always promised.”
+
+Though it started as a nonprofit, launched with major donations from Elon Musk, Reid Hoffman, Peter Thiel and others in 2015, OpenAI shifted to a for-profit model in 2019 to attract venture funding. The move frustrated donors like Musk, who tweeted earlier this year, “I’m still confused as to how a non-profit to which I donated ~$100M somehow became a $30B market cap for-profit. If this is legal, why doesn’t everyone do it?”
+
+Former Google CEO Eric Schmidt, who is building his own AI initiative, called Altman a “hero” in a tweet Friday.
+
+“He built a company from nothing to $90 Billion in value, and changed our collective world forever,” he wrote. “I can't wait to see what he does next. I, and billions of people, will benefit from his future work- it's going to be simply incredible.”

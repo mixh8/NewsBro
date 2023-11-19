@@ -1,0 +1,31 @@
+Sam Altman, one of the most influential leaders in the burgeoning AI industry, is leaving OpenAI, the company he helped start in 2015 and led as CEO.
+
+The surprise news, announced Friday afternoon, comes just a few weeks after Altman led OpenAI’s first developer day, sharing the stage with Satya Nadella, CEO of Microsoft, a key OpenAI partner that has poured billions into the company.
+
+In a statement, OpenAI said Altman “was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities.”
+
+“The board no longer has confidence in his ability to continue leading OpenAI,” the company said.
+
+OpenAI CTO Mira Murati will serve as interim CEO.
+
+Greg Brockman, who helped start the company with Altman, is stepping down as chairman of the board. OpenAI initially said that Brockman would remain in his role at OpenAI, reporting to the CEO. However, late Friday, Brockman said he was leaving the company “after learning today’s news.” Update: Brockman later tweeted Friday that he and Altman were “shocked and saddened by what the board did today.”
+
+“We are grateful for Sam’s many contributions to the founding and growth of OpenAI,” the company said. “At the same time, we believe new leadership is necessary as we move forward.”
+
+OpenAI partners closely with Redmond, Wash.-based Microsoft, powering a popular Azure OpenAI service for the company’s cloud platform and contributing to the company’s AI search and productivity apps.
+
+Microsoft invested an initial $1 billion in OpenAI in 2019 and added another $10 billion in January of this year.
+
+Microsoft was “blindsided” by the news of Altman’s departure, according to Axios.
+
+“We have a long-term partnership with OpenAI and Microsoft remains committed to Mira and their team as we bring this next era of AI to our customers,” a Microsoft spokesperson said in a statement to GeekWire.
+
+In a tweet, Nadella said “we have a long-term agreement with OpenAI with full access to everything we need to deliver on our innovation agenda and an exciting product roadmap; and remain committed to our partnership, and to Mira and the team.”
+
+OpenAI started as a nonprofit but later created a for-profit subsidiary buoyed by the release of ChatGPT last year and the partnership with Microsoft.
+
+Matt McIlwain, managing director at Madrona Venture Group, told CNBC that the combination of Altman’s departure and Brockman getting booted from the chairman role — and not being appointed as CEO — “is intriguing to say the least at a corporate level.”
+
+At its developer event earlier this month, OpenAI is introduced a way for individual ChatGPT users to create customized versions of its popular AI chatbot, personalized for their own use and for sharing with others.
+
+The personal chatbots, dubbed “GPTs,” are the latest move by the company to democratize its artificial intelligence technology, a year after ChatGPT opened the eyes of the industry and the world to the potential of large language models and increasingly sophisticated forms of generative AI.

@@ -1,0 +1,47 @@
+Sam Altman, long the face of the generative AI boom in San Francisco and around the world as the chief executive of multibillion-dollar software startup OpenAI, was pushed out by the company’s board of directors Friday. In a statement, the company said “The board no longer has confidence in his ability to continue leading OpenAI.”
+
+The company’s announcement said the decision came after a review by the board “which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities.”
+
+OpenAI is the inventor of the ChatGPT generative AI tool and has received significant investment from Microsoft. Mira Murati, the company’s chief technology officer, will serve as interim CEO “effective immediately,” the company said.
+
+Axios reported Microsoft found out about Altman’s ouster a minute before it was announced publicly.
+
+Altman posted on X, formerly Twitter, after the announcement, “i loved my time at openai. it was transformative for me personally, and hopefully the world a little bit. most of all i loved working with such talented people. will have more to say about what’s next later,” adding a saluting emoji.
+
+Altman posted later on Friday saying "if i start going off, the openai board should go after me for the full value of my shares." Altman has claimed in the past that he has no financial stake in the company, including during an AI event in San Francisco earlier this year during which he was interviewed on stage.
+
+The announcement also said Greg Brockman would be stepping down as the company’s board chair but remain at the company, reporting to the interim CEO. But Brockman posted a statement on X just before 5 p.m. Friday that he would be leaving the company.
+
+In the post, which Brockman said he had also sent internally to OpenAI, he wrote: “i’m super proud of what we’ve all built together since starting in my apartment 8 years ago. we’ve been through tough and great times together, accomplishing so much despite all the reasons it should have been impossible.” But, he added, “based on today’s news, i quit.” Brockman extended his best wishes to the employees, saying “i continue to believe in the mission of creating safe AGI that benefits all humanity.”
+
+AGI stands for artificial general intelligence, a hypothetical AI agent with roughly the same mental and processing capacities as a human being, or beyond.
+
+Shortly before 9 p.m. on Friday, Brockman said on X that he and Altman were "shocked and saddened by what the board did today." Brockman wrote that Altman received a text from the company's chief scientist Ilya Sutskever Thursday night asking him to join a virtual meeting Friday at noon. Upon joining, the entire board minus Brockman was present and Sutskever told him he was being fired, Brockman wrote. 
+
+Brockman said he was alerted shortly afterwards of Altman's termination, was told he was being removed from the board but that he was vital to the company and would retain his role.
+
+OpenAI did not immediately respond to an emailed request for comment. The Information reported that internal disagreements amongst employees around AI safety took place before the ousting.
+
+Former OpenAI executives Daniela Amodei and Dario Amodei previously left the company to found another AI company, Anthropic, which claims to be highly focused on building safe, so-called constitutional AI models.
+
+The surprise move came just a day after Altman appeared onstage at the Asia-Pacific Economic Cooperation’s CEO Summit in San Francisco alongside other AI luminaries from Meta and Google, and painted a picture of a bright future for the technology and his company.
+
+“I think this will be the most transformative and beneficial technology yet invented,” Altman said onstage Thursday, calling the technology he and other AI entrepreneurs are pioneering the “greatest leap forward that we’ve had yet so far.” The panel was moderated by Laurene Powell Jobs, founder and president of the Emerson Collective, and also included Chris Cox, Meta’s chief product officer, and James Manyika, senior vice president of research, technology and society at Google.
+
+The announcement also comes after Altman’s keynote speech at the OpenAI’s developer day Nov. 6, where he announced plans for an app-store like model for programs powered by his company’s technologies. He was briefly joined onstage there by Microsoft CEO Satya Nadella.
+
+In a statement Friday, Nadella said: “We have a long-term agreement with OpenAI with full access to everything we need to deliver on our innovation agenda and an exciting product roadmap; and remain committed to our partnership, and to Mira and the team. Together, we will continue to deliver the meaningful benefits of this technology to the world.”
+
+Stock in Microsoft, which has invested a reported $13 billion in OpenAI, dipped on the news of Altman’s departure before regaining some loses before the close of trading Friday.
+
+OpenAI’s corporate structure is set up such that the board of directors of a nonprofit entity called OpenAI Inc. oversees the company’s activities and has ultimate control over its direction and priorities. The company said Altman, 38, would also no longer serve on that board.
+
+Interim CEO Mira Murati, a member of OpenAI’s leadership team for five years, “already leads the company’s research, product, and safety functions,” the company statement said. “Given her long tenure and close engagement with all aspects of the company, including her experience in AI governance and policy, the board believes she is uniquely qualified for the role and anticipates a seamless transition while it conducts a formal search for a permanent CEO.”
+
+The OpenAI board of directors includes its chief scientist Ilya Sutskever, as well as independent directors Adam D’Angelo, the CEO of Quora, tech entrepreneur Tasha McCauley, and Helen Toner of Georgetown University’s Center for Security and Emerging Technology.
+
+It was not clear how long that transition might take, or specifically what Altman may not have been candid about with the board.
+
+He became the CEO of OpenAI in 2020, previously serving as the president of startup accelerator Y Combinator for much of the previous decade. He was also very briefly the CEO of Reddit.
+
+Started in 2015, OpenAI received initial funding from Brockman, Elon Musk, Peter Thiel and others. Musk later left the company and has since founded his own AI startup, xAI, with the help of former OpenAI engineers.

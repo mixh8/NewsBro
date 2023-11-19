@@ -1,0 +1,11 @@
+Sam Altman, often considered the face of the new wave of artificial intelligence — and an influential figure in the national AI policy debate — was removed from his role as CEO of OpenAI Friday.
+
+Altman’s departure comes after OpenAI’s board lost confidence in him, according to a blog post from the company.
+
+“Mr. Altman’s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities,” according to the post. “The board no longer has confidence in his ability to continue leading OpenAI.”
+
+Altman will be replaced by chief technology officer Mira Murati.
+
+Altman over the past several months has played an active role in shaping Washington’s response to AI, meeting personally with President Joe Biden and other CEOs, and testifying in a high-profile Senate Judiciary subcommittee hearing in May.
+
+He has pushed Congress to pass laws to mitigate the catastrophic risks of artificial intelligence — and specifically, has urged Congress to impose licensing regimes on companies developing frontier AI models. In August, bipartisan Senate Judiciary members unveiled a legislative framework to establish an independent licensing regime for sophisticated general-purpose models.

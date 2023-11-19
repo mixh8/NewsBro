@@ -1,0 +1,45 @@
+Sam Altman is out at OpenAI.
+
+The board of the AI company, which is behind ChatGPT, announced on Friday that it is "no longer has confidence in his ability to continue leading OpenAI," citing that he was "not consistently candid in his communications."
+
+Mira Murati, who was serving as OpenAI's chief technology officer, will step in as interim CEO until the company chooses a permanent CEO.
+
+"We are grateful for Sam's many contributions to the founding and growth of OpenAI," a statement from OpenAI's board said. "At the same time, we believe new leadership is necessary as we move forward."
+
+Altman responded shortly after OpenAI's announcement.
+
+"i loved my time at openai. it was transformative for me personally, and hopefully the world a little bit. most of all i loved working with such talented people," he posted on X. "will have more to say about what's next later."
+
+Altman posted on X Friday night, writing that the experience felt like "reading your own eulogy while you're still alive."
+
+Until then, Altman's latest post to X was on Tuesday and showed no signs he would be leaving.
+
+On Friday evening, OpenAI president and co-founder Greg Brockman announced he quit the company. In an X post, Brockman said that Altman was unaware that the board, including OpenAI chief scientist Ilya Sutskever, would be removing him as CEO until he joined a Google meeting at noon on Friday.
+
+"Last night, Sam got a text from Ilya asking to talk at noon Friday. Sam joined a Google Meet and the whole board, except Greg, was there," Brockman wrote, referring to himself in the third person. "Ilya told Sam he was being fired and that the news was going out very soon."
+
+In 2015, Altman cofounded OpenAI as a research nonprofit focused on building artificial intelligence "in the way that is most likely to benefit humanity as a whole" with a group that included Elon Musk, Greg Brockman, and Trevor Blackwell. Silicon Valley heavyweights like Reid Hoffman and Peter Thiel joined the founders in pledging $1 billion to fund the project.
+
+He took the helm as CEO in 2019, the same year the firm ditched its nonprofit status to become a "capped-profit."
+
+Three years later, in 2022, OpenAI became a household name when it debuted ChatGPT to the world. Within five days, the chatbot had over 1 million users. Two months after launch, it had 100 million monthly active users.
+
+The chatbot's popularity fueled growth at OpenAI, as Microsoft ramped up its investment in the company to the tune of $10 billion. Since then, the company has released more advanced models of its signature chatbot, as well as an updated text-to-image generator DALL-E 3.
+
+"You guys have built something magical," Microsoft CEO Satya Nadella told Altman earlier this month.
+
+Meanwhile, competitors like Google raced to keep up, while an economy of AI startups developed seemingly overnight.
+
+But Altman's time leading OpenAI wasn't without controversy.
+
+In 2020, MIT Technology Review published an investigation into the company, claiming OpenAI fostered a culture of secrecy and hid its research from the general public and competitors.
+
+Prior to OpenAI, Sam Altman was the president of Y Combinator, after his startup Loopt was part of the accelerator's first class. He was praised for increasing the quality of startups that took part in the program.
+
+On the side, Altman was investing in a number of companies, including Reddit, Helion energy, and Instacart.
+
+"You want to invest in messy, somewhat broken companies," he told The New Yorker in 2016. "You can treat the warts on top, and because of the warts the company will be hugely underpriced."
+
+In addition to being the CEO of OpenAI until Friday, he is also the cofounder of Worldcoin, a cryptocurrency project that he launched in 2019.
+
+Taking the reins from Altman as interim CEO is Murati, who formerly led the technology team at OpenAI. A trained mechanical engineer, she worked at Tesla and Leap Motion before joining OpenAI in 2018 as a researcher.

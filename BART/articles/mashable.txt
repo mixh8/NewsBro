@@ -1,0 +1,31 @@
+Sam Altman published a statement less than two hours after he was fired from his position as OpenAI CEO.
+
+On X, formerly known as Twitter, Altman posted, "i loved my time at openai. it was transformative for me personally, and hopefully the world a little bit. most of all i loved working with such talented people. will have more to say about what’s next later."
+
+It's unclear what Altman meant by "more to say" or exactly when "later" is, but the enigmatic statement suggests he'll be sharing his side of the story.
+
+Altman's post comes after OpenAI's board of directors announced his firing due to not being "consistently candid" with the board. "The board no longer has confidence in his ability to continue leading OpenAI," the announcement said.
+
+Speculation as to why Altman was abruptly fired are already running rampant. It comes as a surprise to most people since Altman was publicly representing the company up until yesterday, as veteran tech journalist Kara Swisher pointed out.
+
+Last week, OpenAI held its very first developer conference where Altman delivered the keynote. OpenAI had some big announcements to share that included the launch of GPT-4 Turbo and custom GPTs. However, just a few days later, a DDoS attack caused a major ChatGPT outage. Altman initially blamed it on increased demand from the deployment of new features.
+
+It's been a tumultuous few weeks for OpenAI and Altman's sudden ousting adds the confusion.
+
+Why did Sam Altman get fired?
+The board's decision came after a "deliberative review process" which found that Altman was "not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities." Specifics of Altman's alleged nebulousness are not clear.
+
+Altman has overseen ChatGPT's meteoric success; it's one of the fastest growing platforms of all time and a pioneer in consumer-facing generative AI. In his capacity as CEO, Altman testified before Congress, calling for the regulation of AI. At the time, however, some perceived the move to be a self-serving strategy to advance OpenAI's agenda.
+
+Last week, ChatGPT experienced a major outage that shut down the platform for several hours. Altman initially said this was due to increased demand following the deployment of new features. However, OpenAI later reported the outage was due to a DDoS attack.
+
+The board, which oversees OpenAI (a 501(c)(3) nonprofit), consists of OpenAI's chief scientist Ilya Sutskever, as well as Quora CEO Adam D’Angelo, technology entrepreneur Tasha McCauley, and Georgetown Center for Security and Emerging Technology’s Helen Toner.
+
+Greg Brockman, co-founder and president of OpenAI, will be stepping down as chairman of the board "as part of this transition," the announcement said.
+
+OpenAI's former CEO opens up about firing
+On Friday, Altman posted a statement on X reflecting on his tenure as OpenAI's CEO.
+
+"I loved my time at OpenAI. It was transformative for me personally, and hopefully the world a little bit. Most of all I loved working with such talented people."
+
+Altman added that he will have more to say about what's next for him at a later time.

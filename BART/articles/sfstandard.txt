@@ -1,0 +1,30 @@
+Sam Altman, the OpenAI CEO who has become a global representative for the nascent AI industry, is leaving the company, OpenAI announced in a blog post.
+
+According to the post, Altman was let go after a review process by the company's board of directors that found that "he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities."
+
+"The board no longer has confidence in his ability to continue leading OpenAI," the post states.
+
+Mira Murati, the company's chief technology officer, will take over as interim CEO, effective immediately. Murati has been at the company for five years.
+
+"i loved my time at openai. it was transformative for me personally, and hopefully the world a little bit. most of all i loved working with such talented people," Altman wrote in a tweet after his ouster.
+
+"will have more to say about what's next later."
+
+OpenAI’s board of directors consists of its Chief Scientist Ilya Sutskever, Quora CEO Adam D’Angelo, entrepreneur Tasha McCauley and Georgetown Center for Security and Emerging Technology’s Helen Toner.
+
+Greg Brockman, the company's president, was initially meant to step down as chair of the board while keeping his other position with the company. However, Brockman posted a resignation letter from the company a few hours after news of Altman's departure broke.
+
+The announcement came one day after Altman made an appearance in front of CEOs and world leaders during the APEC Summit to tout the potential of AI.
+
+Who is Mira Murati?
+Mira Murati, 34, has been relatively unknown until recently. Born in Albania in 1988, Murati grew up during the Balkan country’s shift from a totalitarian communist system to a more democratic government. She left at 16 to pursue studies in engineering in the United States before working her way up the ranks of the tech industry.
+
+She joined OpenAI in 2018, where she took part in the development of ChatGPT and AI image generator DALL-E. Murati began working with the technology in earnest at Tesla, where she helped to build Autopilot, the company’s autonomous driving assistance software.
+
+In an interview last month with Fortune, she said about her work in AI, “I thought it would definitely be the most important set of technologies that humanity has ever built. So I wanted to be a part of that.”
+
+As chief technology officer at the firm, she has attracted media attention in recent months because of her stance on the ethics of AI.
+
+Murati said he believes that artificial intelligence can have a positive impact on people's lives, in areas from climate change to health. She recently joined the board of directors of Unlearn.AI, a startup specializing in the development of machine learning methods that can diagnose diseases and accelerate their treatment.
+
+"There are ... a ton of questions around societal impact, and there are a lot of ethical and philosophical questions that we need to consider," Murati told Time earlier this year. "And it's important that we bring in different voices, like philosophers, social scientists, artists and people from the humanities."

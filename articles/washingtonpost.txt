@@ -1,0 +1,46 @@
+SAN FRANCISCO — OpenAI CEO Sam Altman, who has emerged as the face of the artificial intelligence revolution, was ousted Friday after the board said it had lost confidence in his ability to lead the company, which built the pioneering AI chatbot ChatGPT.
+Altman’s ouster, which is effective immediately, follows “a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities,” the board said in a blog post Friday.
+
+Altman’s pursuit of profits and his growing ambitions to build a world-spanning consumer business triggered concerns among some OpenAI employees that the company had abandoned its founding principles to be a counterweight to Big Tech, according to a person familiar with internal discussions at the company, who spoke on the condition of anonymity to discuss private conversations.
+
+Greg Brockman, a co-founder of OpenAI who had been serving as chairman of the board, said in a post on X, formerly Twitter, that he was also removed from the board as part of what he described as a surprise move against him and Altman by other members of the board.
+
+Chief Technology Officer Mira Murati will serve as interim CEO and a search is underway to identify a permanent successor, the blog post said.
+
+Altman’s sudden departure sent shock waves through the technology industry and the halls of government, where he had become a familiar presence in debates over the regulation of AI. His rise and apparent fall from tech’s top rung is one of the fastest in Silicon Valley history. In less than a year, he went from being Bay Area famous as a failed start-up founder who reinvented himself as a popular investor in small companies to becoming one of the most influential business leaders in the world. Journalists, politicians, tech investors and Fortune 500 CEOs alike had been clamoring for his attention.
+
+Many in the technology world credited him with infusing new energy and a sense of possibility into a beleaguered sector that has been dominated by tech giants like Google and Amazon for more than a decade. Altman was clearly hoping to enter the league of tech titans such as billionaire Elon Musk, Meta CEO Mark Zuckerberg and even the late Apple CEO Steve Jobs.
+
+“I loved my time at OpenAI. It was transformative for me personally, and hopefully the world a little bit,” Altman wrote Friday in a post on X. “Most of all I loved working with such talented people. Will have more to say about what’s next later.”
+
+In his post on X, Brockman said he and Altman were “shocked and saddened by what the board did today.” He said that Altman received a text from board member and OpenAI chief scientist Ilya Sutskever on Thursday evening, inviting him to a virtual meeting on Friday. At that meeting, Altman was fired, Brockman said. Brockman, who also held the title of president of OpenAI, soon got an invite to a meeting where he was also told he was being removed from the board. He quit in response.
+
+A spokesperson for OpenAI declined to comment beyond the blog post, and attempts to reach Altman for comment were unsuccessful.
+
+Altman’s departure was akin to toppling the heir apparent of generative AI. Group chats of tech investors and workers lit up across San Francisco, as everyone expressed their shock and speculated on why the board decided to remove him. In conversations with more than a dozen AI industry executives and investors, all of them expressed confusion and surprise.
+
+As recently as Thursday, Altman was acting the CEO part, speaking onstage at the Asia-Pacific Economic Cooperation CEO summit in San Francisco. Last week, he presented a new road map for OpenAI to big applause from hundreds of developers at the company’s first major conference.
+
+Altman’s ambitions were on clear display as he announced an app-store-like marketplace where people could make their own versions of ChatGPT, and get a share of revenue from the company.
+
+Though Altman was one of OpenAI’s founders, he has said he does not own any shares of the company. While CEO of OpenAI, Altman continued to make investments in other companies such as nuclear fusion company Helion and AI hardware start-up Humane. He has made dozens of personal investments in start-ups over the years, including 12 in 2023 alone, according to venture capital data firm PitchBook.
+
+Microsoft, which is OpenAI’s biggest investor, said its partnership with the company wouldn’t be affected by Altman’s departure. But a person familiar with the matter, speaking on the condition of anonymity to discuss internal information, said Microsoft heard about the news just minutes before the blog post went out. Microsoft’s stock fell 1.7 percent, erasing billions from its market capitalization.
+
+“We have a long-term partnership with OpenAI, and Microsoft remains committed to Mira and their team as we bring this next era of AI to our customers,” Microsoft spokesman Heather Weitnauer said.
+
+The wording of the blog post and the confidence that Microsoft has shown in the company in recent weeks suggests that Altman’s departure is related to him, rather than problems with the broader business, said Rowan Curran, an AI industry analyst with research firm Forrester.
+
+“I see this as a CEO change at a large technology company, but I don’t see this at this point as a fundamental change in OpenAI’s approach, their direction, their technology,” Curran said.
+
+Launched as a nonprofit in 2015, OpenAI was created to keep advanced artificial intelligence out of the hands of monopolistic corporations and foreign governments. But since accepting a major investment from Microsoft in 2019, the company has transitioned into a “capped profit” structure that limits how much return backers can make on their investment. OpenAI often says it is still pursuing its original goal of building AI that “benefits all of humanity.” But its path forward lately looks more like business as usual.
+
+As OpenAI took on more of a public presence in May, around the time of Altman’s appearance before Congress, the company began a hiring spree, poaching executives from Meta, Apple and Amazon Web Services. Around the same time, Altman began a tour around the globe visiting heads of state and developers in dozens of cities, including Tel Aviv and Doha, Qatar, an even more ambitious stage than Zuckerberg’s 2017 tour of America.
+
+After the announcement, some tech leaders publicly posted about their admiration of Altman, speculating on what his next moves would be.
+
+“Sam Altman is a hero of mine. He built a company from nothing to $90 billion in value, and changed our collective world forever,” former Google CEO Eric Schmidt wrote on X.
+
+Brockman, in his Friday evening post expressing his shock at the OpenAI board’s moves, thanked people for their support.
+
+“Please don’t spend any time being concerned. We will be fine. Greater things coming soon,” he said.

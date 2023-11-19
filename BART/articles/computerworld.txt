@@ -1,0 +1,20 @@
+Sam Altman, a key figure in the creation of landmark generative AI application ChatGPT, has been fired by the OpenAI board of directors over an apparent lack of candor in his communications with the board.
+
+According to a statement issued by OpenAI Friday, Altman’s departure is the result of a “deliberative review process by the board,” which resulted in a finding that he “was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities.”
+
+The statement said that the board now no longer has confidence in Altman’s ability to continue at the helm of one of the AI world’s most influential companies.
+
+“We are grateful for Sam’s many contributions to the founding and growth of OpenAI,” the board said in a statement. “At the same time, we believe new leadership is necessary as we move forward.”
+
+
+In a statement on X (formerly Twitter), Altman said, "i loved my time at openai. it was transformative for me personally, and hopefully the world a little bit. most of all i loved working with such talented people."
+
+Board Chairman Greg Brockman will also leave his role as a result of the shakeup. OpenAI initially stated that Brockman would remain in his role as president, but shortly after the announcement of the reshuffling, he announced that he would quit the company entirely. The company’s CTO, Mira Murati, will take over as interim CEO, according to OpenAI, and the board will begin to conduct a formal search for a permanent replacement. Brockman will report to Murati, the company noted.
+
+ Ritu Jyoti, group vice president for worldwide AI and automation research at IDC, called the shakeup “astonishing,” noting that Altman had been present at many public events, even in the days before his ouster, and that there was no sense of trouble in the offing for the CEO. “I’m sure the board has taken the right decision,” she said. “But it’s quite unexpected.”"
+
+ Brockman and Murati were both promoted to their former roles in May 2023. Brockman has been closely involved in both broad strategy for the company as well as personal coding contributions, and has focused on training “flagship AI systems” since assuming the role of president. Murati is the former head of OpenAI’s research, product and partnership teams, and was credited by the company for the release of its research on DALL-E, the well-known image generation AI system.
+
+Altman is a former startup CEO, having co-founded social networking site Loopt in 2005. He then became a venture capitalist, working with Y Combinator for just under a decade. He was intimately involved in the genesis of OpenAI, and was one of its earliest funders. He became CEO in 2020.
+
+OpenAI, when reached for further comment, would only refer to the company’s official statement on the matter. The precise nature of Altman’s purported dishonesty in his dealings with the board remains unclear, as do the reasons for Brockman’s removal from the board.
