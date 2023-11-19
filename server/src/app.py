@@ -1,25 +1,14 @@
-from flask import Flask, jsonify
-from flask_cors import CORS
+import streamlit as st
 from controller.headlinesController import HeadlinesController
 
-app = Flask(__name__)
-CORS(app, origins=['http://localhost:3000'])
+st.title("NewsBro Demo")
 
-headlinesController = HeadlinesController()
+st.header("Sam Altman & OpenAI News")
 
-@app.route('/')
-def index():
-    return jsonify(message="Hello from Flask!")
+controller = HeadlinesController()
 
-@app.route('/api')
-def api():
-    headlines = headlinesController.getHeadlines()
-    return jsonify(headlines.serialize())
+headlines = controller.getHeadlines().serialize()
+# jsonify(headlines.serialize())
+st.json(headlines)
 
-@app.route('/headline/<id>')
-def headline(id):
-    headline = headlinesController.getHeadlineById(id)
-    return jsonify(headline.serialize())
 
-if __name__ == '__main__':
-    app.run(debug=True)
