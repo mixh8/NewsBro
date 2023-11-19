@@ -1,0 +1,88 @@
+[
+  {
+    "score": "90.3%",
+    "text": "OpenAI CEO Sam Altman has left the company.",
+    "publishers": [
+      "arstechnica",
+      "pbs",
+      "foxnews",
+      "washingtonpost",
+      "npr",
+      "crunchbase",
+      "nytimes",
+      "geekwire",
+      "sfgate",
+      "politico",
+      "axios",
+      "theverge",
+      "nymag",
+      "jazeera",
+      "reuters",
+      "wired",
+      "mashable",
+      "rollingstone",
+      "barrons",
+      "bbc",
+      "cnn",
+      "dw",
+      "computerworld",
+      "sfchronicle",
+      "sfstandard",
+      "dailybeast",
+      "businessinsider",
+      "forbes"
+    ]
+  },
+  {
+    "score": "45.2%",
+    "text": "The company says he was not \"consistently candid in his communications with the board\" President Greg Brockman said he had decided to leave the company, as well.",
+    "publishers": [
+      "nymag",
+      "crunchbase",
+      "sfstandard",
+      "geekwire",
+      "rollingstone",
+      "bbc",
+      "barrons",
+      "businessinsider",
+      "dailybeast",
+      "pbs",
+      "france24",
+      "foxnews",
+      "npr",
+      "forbes"
+    ]
+  },
+  {
+    "score": "29.0%",
+    "text": "OpenAI's Chief Technology Officer Mira Murati will serve as interim CEO.",
+    "publishers": [
+      "reuters",
+      "geekwire",
+      "sfgate",
+      "dailybeast",
+      "dw",
+      "pbs",
+      "theverge",
+      "nymag",
+      "npr"
+    ]
+  },
+  {
+    "score": "9.7%",
+    "text": "Altman is considered the face of the new wave of artificial intelligence.",
+    "publishers": [
+      "bloomberg",
+      "politico",
+      "france24"
+    ]
+  },
+  {
+    "score": "6.5%",
+    "text": "Greg Brockman, who cofounded OpenAI with Altman, will also step down from his role as chair of the company\u2019s board.",
+    "publishers": [
+      "computerworld",
+      "wired"
+    ]
+  }
+]

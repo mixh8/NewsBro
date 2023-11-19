@@ -1,4 +1,5 @@
 from __future__ import unicode_literals, print_function
+import json
 import os
 import nltk
 import tensorflow as tf
@@ -173,14 +174,19 @@ def getData():
 
 def sendData():
     data = getData()
-    with open('data.txt', 'w') as file:
-        toWrite = ""
-        for element in data:
-            toWrite += f"""text:'{element['text']},score:{element['score']},publishers:{element['publishers']};'"""
-        file.write(toWrite)
-        file.close()
+    jsonString = json.dumps(data, indent=2)
+    print(jsonString)
+
+
+
+    
+    file_name = 'output.json'
+    with open(file_name, 'w') as json_file:
+        json.dump(data, json_file, indent=2)
 
 sendData()
+
+
 
 
 
