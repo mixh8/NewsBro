@@ -49,10 +49,7 @@ export default function HeadlineComponent({ params }: { params: { id: string } }
     return (
         <main className="flex min-h-screen flex-col items-start p-24 font-mono">
             <PageTitle title={headline.title} />
-            <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex lg: flex-col">
-                {/* <h1 className="text-4xl font-bold text-black mb-4">Headline Title: {headline.title}</h1> */}
-                
-                <h1>Headline ID: {headline.id}</h1>
+            <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex lg: flex-col">                
                 <BulletPoints />
             </div>
         </main>
